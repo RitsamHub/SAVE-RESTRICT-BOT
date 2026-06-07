@@ -97,9 +97,9 @@ class script(object):
 <b>📝 Personalized Captions</b>
 <b>🛂 24/7 Priority Support</b></blockquote>
 <blockquote><b>💳 Pricing Options:</b></blockquote>
-• <b>1 Month Plan:</b> ₹50 / $1 (Billed Monthly)
-• <b>3 Month Plan:</b> ₹120 / $2.5 (Save 20%)
-• <b>Lifetime Access:</b> ₹200 / $4 (One-Time Payment)
+• <b>1 Month Plan:</b> $50 (Billed Monthly)
+• <b>3 Month Plan:</b> $120 (Save 20%)
+• <b>Lifetime Access:</b> $220 (One-Time Payment)
 <blockquote><b>👇 Secure Payment:</b></blockquote>
 <b>💸 UPI ID:</b> <code>{}</code>
 <b>📸 QR Code:</b> <a href='{}'>Scan to Pay</a>
